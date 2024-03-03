@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+  }
+
+.Container1{
+  background-color: grey;
+  padding: 15px;
+  
+}
+.Container1 > center div{
+  background-color: silver;
+  height: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-top: 20px;
+  border: 2px solid black;
+  border-right: none;
+  border-left: none;
+  font-family: Georgia, Times, serif
+ }
+ 
+ .a1{
+   background-color: rgb(53, 122, 175);
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a2{
+   background-color: rgb(54, 134, 185);
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a3{
+   background-color: #3293c3;   
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a4{
+   background-color: #469fcb; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a5{
+   background-color: #5fadd2; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a6{
+   background-color: #75bada; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a7{
+   background-color: #8dc4df; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a8{
+   background-color: #23ab7e;
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a8 span{
+   font-size: 30px;
+ }
+ 
+ .a9{
+   background-color: #e7abc1;  
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a10{
+   background-color: #e799b5; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a11{
+   background-color: #e587a7;
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a12{
+   background-color: #e2749a; 
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a13{
+   background-color: #E0658A;
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a14{
+   background-color: #DB5580;
+   padding: 15px;
+   color: white;
+ }
+ 
+ .a15{
+   background-color: #DA3D75; 
+   padding: 15px;
+   color: white;
+ }
+ 
